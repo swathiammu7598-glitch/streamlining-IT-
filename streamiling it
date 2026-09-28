@@ -1,0 +1,27 @@
+# Streamlining IT Procurement - ServiceNow
+
+## Project Overview
+This project automates the IT Laptop procurement process using ServiceNow Flow Designer.
+
+## Phase 1: Flow Creation
+- Created a Flow named "Standard laptop task" in Flow Designer
+- Trigger: Service Catalog
+- Action: Create Catalog Task for Hardware group
+- File: [Phase-1.md](Phase-1.md)
+
+## Phase 2: Flow Assignment
+- Assigned the Flow to "Standard Laptop" Catalog Item in Maintain Items
+- File: [Phase-2.md](Phase-2.md)
+
+## Phase 3: Testing
+- Ordered Standard Laptop from Service Catalog
+- Approved the request and verified task creation for Hardware team
+- File: [Phase-3.md](Phase-3.md)
+
+## Screenshots
+All implementation screenshots are uploaded (page1.png to page14.png)
+
+## Result
+Manual IT procurement process is now automated. Task automatically reaches Hardware team without manual intervention.
+
+
